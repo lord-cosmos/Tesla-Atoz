@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinesh Pandikona @Tesla-Atoz
-- 👀 I’m interested in Computer Science stuff - (JavaScript, TypeScript, Software principles, Open-source, Teaching)
-- 🌱 I’m currently learning behind-the-scenes of JS and contributing on SO
-- 💞️ I’m looking to collaborate on teaching(talks), development on JS/TS (no fancy terms here😜)
+- 👀 I’m interested in Computer Science stuff - (Java, TypeScript, Software principles, Open-source, Teaching)
+- 🌱 I’m currently learning algorithms through Java and contributing on SO
+- 💞️ I’m looking to collaborate on development on JS/TS , Java (no fancy terms here😜)
 - 📫 How to reach me : teslaatozinspires7@gmail.com (no social media profiles 😁) 
 
 <!---
